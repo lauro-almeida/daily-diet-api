@@ -1,3 +1,6 @@
+Nesse desafio desenvolveremos uma API para controle de dieta diária, a Daily Diet API.
+
+
 [x] Deve ser possível criar um usuário
     [x] Teste da rota de criação de usuário
 [x] Deve ser possível identificar o usuário entre as requisições
